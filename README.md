@@ -1,1 +1,1 @@
-# TerminalRepo first termonal attempt
+# TerminalRepo first terminal attempt
